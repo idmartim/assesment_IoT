@@ -15,3 +15,11 @@ Projeto da disciplina IN1007 - Paradigmas de Linguagens de Programação.
   - Elaborar uma nova linguaguem de programação.
   - Realizar tratativas de possiveis erros de compilação.
   - Aplicar essa linguagem de programação no uso de recursos do S.O (Sistema Operacional), como recursos de rede.
+
+# Motivação
+- 
+- 
+
+# Semântica
+- 
+- 
